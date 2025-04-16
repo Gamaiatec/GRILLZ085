@@ -16,7 +16,7 @@ body {
 /* Cabeçalho */
 header {
     background-color: #333;
-    color: #f1c40f;
+    color: hsl(59, 100%, 52%);
     padding: 20px;
     display: flex;
     justify-content: space-between;
@@ -24,7 +24,7 @@ header {
 }
 
 header .logo img {
-    width: 50px;
+    width: 100px;
     height: auto;
     margin-right: 10px;
 }
@@ -69,7 +69,7 @@ section h2 {
 
 .produto img {
     width: 100%;
-    height: auto;
+    height: 200px;
     border-radius: 8px;
 }
 
